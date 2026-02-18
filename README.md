@@ -1,4 +1,4 @@
-# Sales-Trend-and-Time-Based-Performance-Analysis-for-Afficionado-Coffee-Roasters# ☕ Coffee Sales Trend & Performance Analysis
+# Sales-Trend-and-Time-Based-Performance-Analysis-for-Afficionado-Coffee-Roasters
 
  Project Overview
 This project analyzes transactional sales data from Afficionado Coffee Roasters to identify daily, weekly, and hourly sales trends. The objective is to uncover time-based demand patterns and provide actionable business insights for operational planning and decision-making.
