@@ -2,6 +2,5 @@ streamlit
 pandas
 numpy
 matplotlib
-seaborn
-ploty
+plotly
 openpyxl
